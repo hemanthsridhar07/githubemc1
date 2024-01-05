@@ -2,16 +2,18 @@
 
 This is a simple Flask CRUD (Create, Read, Update, Delete) API for managing users and their associated notes.
 
-Make sure you have the following installed on your system:
+To use this project, follow these steps:
 
-- Python (3.x recommended)
-- PostgreSQL database server
-- Flask application
-
-Clone the repository of your code
-
-Migrate the databse
-
-Execute the necessary CRUD opreations
+1. Clone the repository.
+2. Create and activate a virtual environment
+3. Install dependencies with `pip install -r requirements.txt`.
+4. Run the application with `python app.py`.
 
 
+Here's how you can use this project:
+
+1. Creating a database.
+2. To add data to the database.
+3. To get data to the database.
+4. To update data in the database.
+5. To delete data from the database.
